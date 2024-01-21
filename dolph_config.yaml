@@ -1,0 +1,7 @@
+database:
+  mongo:
+    url: mongodb+srv://christopheregbaaibon:Ghostcod3r@cluster0.wdndnu8.mongodb.net/
+    options:
+      useNewUrlParser: true
+
+port: 3400
